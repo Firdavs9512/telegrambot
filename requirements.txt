@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+youtube-search-python
+ShazamAPI
+yt-dlp
+requests
+moviepy
+Flask
+youtube-dl
+bs4
+ffmpeg
